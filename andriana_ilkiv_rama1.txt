@@ -1,2 +1,4 @@
 warning
 goodbye
+RANDOM
+hello world
